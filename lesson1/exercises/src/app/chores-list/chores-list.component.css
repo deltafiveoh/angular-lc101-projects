@@ -1,0 +1,14 @@
+.chores {
+    font-size: medium;
+    color: tomato;
+    font-family: 'Lucida Sans Unicode';
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+li {
+    font-style: italic;
+}

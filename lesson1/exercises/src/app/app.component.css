@@ -1,0 +1,14 @@
+.ends {
+    text-align: center;
+}
+
+hr {
+    height: 2px;
+    color: gray;
+    background-color: gray;
+}
+
+.col-3 {
+    background-color: rgb(216, 231, 216);
+    margin: 5px;
+}
